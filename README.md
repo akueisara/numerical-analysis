@@ -1,2 +1,2 @@
 # Numerical Analysis
-The course Numerical Analysis using Scilab in NCHU
+The projects of the course Numerical Analysis using Scilab in NCHU
